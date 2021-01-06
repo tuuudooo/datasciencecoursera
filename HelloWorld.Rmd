@@ -4,5 +4,4 @@ author: "Tu Do"
 date: "1/6/2021"
 output: pdf_document
 ---
-
 ## This is a markdown file
